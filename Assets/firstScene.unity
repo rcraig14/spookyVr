@@ -272,6 +272,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7777bd33242f94aaebde00e5e24c3980, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  doorState: 
 --- !u!1001 &1945704515
 Prefab:
   m_ObjectHideFlags: 0
@@ -321,7 +322,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: f4cb05c709bd34386baa74b7e45f7d6e, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: 0.3420201
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: f4cb05c709bd34386baa74b7e45f7d6e, type: 3}
       propertyPath: m_LocalRotation.z
@@ -329,11 +330,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: f4cb05c709bd34386baa74b7e45f7d6e, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.9396927
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: f4cb05c709bd34386baa74b7e45f7d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 40
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f4cb05c709bd34386baa74b7e45f7d6e, type: 3}
